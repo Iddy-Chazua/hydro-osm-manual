@@ -9,7 +9,7 @@
 
 
 
-#Clone hydro-osm form 
+#Clone hydro-osm from 
 
  -git clone https://github.com/openearth/hydro-osm
 
